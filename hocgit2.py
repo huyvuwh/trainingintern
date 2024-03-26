@@ -1,0 +1,1 @@
+print("học git là dễ 2")

@@ -4,5 +4,6 @@ print("đây là đoạn code của người 2")
 # code người 1
 print("đây là đoạn code của người 1")
 
-# code người 1
-print("đây là đoạn code được thêm vào để thử merge")
+
+# code mới 
+print("thử update code với merge")
